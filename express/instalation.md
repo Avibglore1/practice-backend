@@ -5,3 +5,5 @@ npm i --save-dev nodemon
 "scripts": {
    "start":"npx nodemon index.js"
  }
+
+
