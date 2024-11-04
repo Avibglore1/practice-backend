@@ -6,4 +6,6 @@ npm i --save-dev nodemon
    "start":"npx nodemon index.js"
  }
 
+npm i --save-dev dotenv
+npm i mongoose
 
