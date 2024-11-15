@@ -8,4 +8,6 @@ npm i --save-dev nodemon
 
 npm i --save-dev dotenv
 npm i mongoose
-
+npm i cookie-parser
+npm i jsonwebtoken
+npm i util

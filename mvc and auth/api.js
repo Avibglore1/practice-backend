@@ -152,7 +152,7 @@ async function profileHandler(req,resp){
         console.log('err', err);
         resp.status(500).json({
             message: err.message,
-            status: 'failure'
+            status: 'failure plz login'
         })
     }
 }
